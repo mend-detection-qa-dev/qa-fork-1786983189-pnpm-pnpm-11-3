@@ -4,5 +4,13 @@
       "pnpm": "11.3.0",
       "node": ">=20 <21"
     }
+  },
+  "scanSettingsSAST": {
+    "enableScan": false
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    }
   }
 }
